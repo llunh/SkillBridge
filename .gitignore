@@ -1,0 +1,47 @@
+# ==============================
+# SkillBridge .gitignore
+# ==============================
+
+# 1. Python 캐시
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 2. 가상환경
+.venv/
+venv/
+env/
+
+# 3. 환경변수 및 API 키
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# 4. Jupyter Notebook
+.ipynb_checkpoints/
+
+# 5. IDE / Editor
+.vscode/
+.idea/
+
+# 6. 운영체제 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 7. 로그 및 임시 파일
+*.log
+*.tmp
+*.temp
+
+# 8. 학습 모델 파일
+models/
+
+# 9. Python 빌드 파일
+build/
+dist/
+*.egg-info/
