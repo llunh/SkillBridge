@@ -1,0 +1,40 @@
+{
+  "result": "Y",
+  "list": [
+    {
+      "annoId": 30005648,
+      "sysCompanyCd": "WTKR",
+      "sysCompanyCdNm": "NAVER WEBTOON",
+      "addSysCompanyCd": "KR",
+      "comOrgCd": "WTKR000001",
+      "annoYear": "2026",
+      "annoSubject": "[2027 상반기 채용연계형 인턴십] 네이버웹툰 백엔드 서버 개발 (Backend Software Development)",
+      "entTypeCd": "0010",
+      "entTypeCdNm": "신입",
+      "reqTypeCd": "0010",
+      "reqTypeCdNm": "수시",
+      "workAreaCd": "0010",
+      "staYmd": "20261116",
+      "endYmd": "20261206",
+      "staTime": "1000",
+      "endTime": "2359",
+      "staYmdTime": "2026.11.16 10:00:00",
+      "endYmdTime": "2026.12.06 23:59:00",
+      "stateCd": "0040",
+      "stateCdNm": "채용진행중(게시/마감후미노출)",
+      "ordNo": "7.00",
+      "reviewMailYn": "Y",
+      "hideApplyBtnYn": "N",
+      "annoKeyword": "네이버웹툰, 백엔드, 서버 개발",
+      "classCdNm": "Tech",
+      "subJobCdNm": "Backend",
+      "subJobCdCnt": 1,
+      "classCdCnt": 1,
+      "empTypeCdNm": "정규",
+      "intrstYn": "N",
+      "tmplatPath": "webtoon",
+      "jobDetailLink": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005648"
+    }
+  ],
+  "totalSize": 1
+}
