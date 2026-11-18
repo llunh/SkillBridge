@@ -1,4 +1,4 @@
-﻿공고번호,회사명,공고제목,모집직무,경력조건,직무내용,자격요건,공고URL
+﻿공고번호,회사명,공고제목,모집직무,경력조건,직무내용,자격요건,우대사항,우대사항 범위,공고URL
 182207,안진회계법인,경영지원부문 IT AI 엔지니어 채용,경영지원부문 IT AI 엔지니어,경력|신입,"- 상용 및 오픈소스 기반 LLM(OpenAI, Gemini 등)을 활용한 데이터 분석·처리 프로그램 개발
 - AI 개발 로직 설계 및 시스템 구축
 - 프로그램 테스트, 배포 및 운영 등 전반적인 어플리케이션 라이프사이클 관리
@@ -9,7 +9,7 @@
   · 클라우드(AWS, GCP, Azure) 환경에서 AI 서비스 운영 경험 보유
   · 문제 해결 능력 및 협업 커뮤니케이션 역량 우수자
   · 해외여행에 결격 사유가 없는 자
-  · Deloitte Global Talent Standards에 부합하는 역량 보유자",https://join.deloitte.co.kr/WiseRecruit2/User/RecruitView.aspx?ridx=5231
+  · Deloitte Global Talent Standards에 부합하는 역량 보유자",,,https://join.deloitte.co.kr/WiseRecruit2/User/RecruitView.aspx?ridx=5231
 184156,더존비즈온,[AI 개발] AI 에이전트 개발자 경력 추가 채용,AI 에이전트 개발,경력,"[AI 에이전트 개발]
 - 자사 시스템에 탑재되는 AI 에이전트 서비스 연구·개발
 - OpenAl 딥리서치 같은 에이전트에 다양한 검색 연동
@@ -31,10 +31,10 @@
 - 에이전트/RAG 파이프라인 설계·구축 및 운영 실무 경력 보유자
 - GPT, Claude 등 LLM API(엔드포인트)를 활용한 서비스 개발 실무 경력 보유자
 - 온톨로지·지식그래프 구축 또는 활용 경험 보유자
-- 파이썬, 리눅스 사용능력 보유자",https://recruit.douzone.com/post/8000/REM2026056
+- 파이썬, 리눅스 사용능력 보유자",,,https://recruit.douzone.com/post/8000/REM2026056
 184648,한국기계연구원,2026년도 제3회 신입직원 공개채용,에너지 시스템용 터보기계 기술 外,신입,상세 모집요강 참조,"- 에너지 시스템용 터보기계 기술 / 인공지능 기반 기계 및 로봇 기술 / 고온 연료전지·수전해 스택 개발 / 기계시스템 설계·해석 및 AI 융합 기술 / 고출력 레이저 응용 가공시스템 개발 및 AI 기반 지능화 기술 / 일반행정 / 통합정보시스템 개발·구축 및 운영
 
-※ 모집분야별 상세 내용은 채용 홈페이지 및 채용 홈페이지 내 첨부파일을 참조하시기 바랍니다.",https://kimm.fairy.im/announcement/detail/22
+※ 모집분야별 상세 내용은 채용 홈페이지 및 채용 홈페이지 내 첨부파일을 참조하시기 바랍니다.",,,https://kimm.fairy.im/announcement/detail/22
 184650,아머스포츠코리아,웹 기획자 경력직 채용,웹 기획자,경력,"- 피크퍼포먼스 자사몰 운영 및 웹 기획
 - 지표·고객 행동 분석 기반 서비스 개선 기획
 - 신규·기존 기능의 정책 수립 및 화면설계
@@ -43,10 +43,10 @@
 - 이커머스 전반(주문·결제·회원·프로모션 등) 이해
 - 기획 산출물(화면설계서, 정책서 등) 작성 능력
 - 데이터 기반 문제 분석 및 개선 과제 도출 역량
-- 개발·디자인·온라인 MD 등 협업 경험",https://amersportskorea.recruiter.co.kr/career/jobs/130988
-184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,회로/FPGA개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),https://samsungmedison.careerlink.kr/jobs/RC20261109038995
-184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,SW개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),https://samsungmedison.careerlink.kr/jobs/RC20261109038995
-184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,영상개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),https://samsungmedison.careerlink.kr/jobs/RC20261109038995
+- 개발·디자인·온라인 MD 등 협업 경험",,,https://amersportskorea.recruiter.co.kr/career/jobs/130988
+184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,회로/FPGA개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),,,https://samsungmedison.careerlink.kr/jobs/RC20261109038995
+184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,SW개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),,,https://samsungmedison.careerlink.kr/jobs/RC20261109038995
+184878,삼성메디슨,2026년 하반기 3급 신입사원 채용,영상개발,신입,상세 모집요강 참조,- 영어회화 최소등급 : IL(OPlc) 또는 110점 이상(토익스피킹),,,https://samsungmedison.careerlink.kr/jobs/RC20261109038995
 185206,에어퍼스트,2027년 동계 각 부문 인턴 채용공고,[기흥/용인] Cluster ROC운영팀 外,인턴,상세 모집요강 참조,"[기흥/용인]
 - Cluster ROC운영팀
 
@@ -56,42 +56,42 @@
 [평택]
 - 환경안전부 / 건설본부 계전팀 / 건설본부 프로젝트 지원팀
 
-※ 모집분야별 상세 내용은 채용 홈페이지 참조하시기 바랍니다.",https://airfirst.career.greetinghr.com/ko/o/244341
+※ 모집분야별 상세 내용은 채용 홈페이지 참조하시기 바랍니다.",,,https://airfirst.career.greetinghr.com/ko/o/244341
 185243,앰코테크놀로지코리아,[신입] 고객만족팀 업무 자동화 모집 (인천 송도),업무 자동화(고객만족팀),신입,"- Python을 활용한 생산관리 업무 자동화 시스템 기획 및 개발
 - 자동화 시스템 운영 및 유지보수
 - 업무 효율성 향상을 위한 아이디어 제안","- 전문학사 이상 학력 보유하신 분
 - Python 개발 능력
 - 데이터 핸들링 : Pandas 기반 데이터 처리 능력
 - Excel 활용능력 중상 이상
-- 개발자와 사용자 간 원활한 커뮤니케이션 능력",https://amkor.recruiter.co.kr/career/jobs/134042
-185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] Logic Design,경력,상세 모집요강 참조,,https://lx.recruiter.co.kr/career/jobs/133815
-185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Analog Design] Source/Gamma,경력,상세 모집요강 참조,,https://lx.recruiter.co.kr/career/jobs/133815
-185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] SerDes Architect(Link),경력,상세 모집요강 참조,,https://lx.recruiter.co.kr/career/jobs/133815
-185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] Verification,경력,상세 모집요강 참조,,https://lx.recruiter.co.kr/career/jobs/133815
+- 개발자와 사용자 간 원활한 커뮤니케이션 능력",,,https://amkor.recruiter.co.kr/career/jobs/134042
+185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] Logic Design,경력,상세 모집요강 참조,,,,https://lx.recruiter.co.kr/career/jobs/133815
+185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Analog Design] Source/Gamma,경력,상세 모집요강 참조,,,,https://lx.recruiter.co.kr/career/jobs/133815
+185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] SerDes Architect(Link),경력,상세 모집요강 참조,,,,https://lx.recruiter.co.kr/career/jobs/133815
+185246,엘엑스세미콘,2026년 11월 경력사원 채용 (서울/대전),[Digital Design] Verification,경력,상세 모집요강 참조,,,,https://lx.recruiter.co.kr/career/jobs/133815
 185392,펄어비스,[겨울 인턴십] 사업/서비스_서비스디자인(웹기획),사업/서비스_서비스디자인(웹기획),신입|인턴,"- 게임 관련 웹서비스 구축 및 운영
 - UX 설계 및 구축
 - 그룹웨어 등 ERP 구축 및 운영
 - 데이터를 기반한 서비스 개선 인사이트 도출","- 디자인 / 프로그램 업무에 대한 이해가 있으신 분
 - Google Analytics 등 데이터 분석 경험이 있으신 분
-- 원활한 커뮤니케이션 능력과 긍정적인 사고를 가지신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=874
+- 원활한 커뮤니케이션 능력과 긍정적인 사고를 가지신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=874
 185397,펄어비스,[겨울 인턴십] 엔지니어링_웹개발(백엔드),엔지니어링_웹개발(백엔드),신입|인턴,"- 게임 서비스 웹사이트, API, 플랫폼 개발
 - 웹 기반 회사 내부 툴 개발
 - 게임 내 웹 콘텐츠 개발
 - 개발된 프로젝트 운영 및 유지 보수","- 웹 애플리케이션 또는 관련 개발 경험이 있으신 분
 - 논리적인 사고와 문제 해결 능력을 갖추신 분
 - 원활한 커뮤니케이션과 협업이 가능하신 분
-- 웹 개발에 대한 관심과 배우고자 하는 의지가 있으신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=869
+- 웹 개발에 대한 관심과 배우고자 하는 의지가 있으신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=869
 185398,펄어비스,[겨울 인턴십] 엔지니어링_데이터분석,엔지니어링_데이터분석,신입|인턴,"- BI 대시보드 및 분석 서비스 개발
 - 데이터 파이프라인(ETL/ELT) 구축 및 운영
 - LLM 기반 AI 에이전트 개발
 - AI/ML 기반 예측 모델 개발 및 게임 데이터 분석
 - 데이터 분석을 통한 비즈니스 인사이트 도출","- SQL과 Python으로 데이터 추출/분석이 가능하신 분
 - AI 도구(LLM, 코딩 에이전트 등)를 업무에 활용하실 수 있는 분
-- 논리적 사고를 바탕으로 문제를 정의하고 해결할 수 있으신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=868
+- 논리적 사고를 바탕으로 문제를 정의하고 해결할 수 있으신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=868
 185399,펄어비스,[겨울 인턴십] 엔지니어링_DBA,엔지니어링_DBA,신입|인턴,"- MS-SQL 데이터베이스 설계, 개발 및 배포 (테이블, SP 버전 관리 / 검수 / 패치)
 - DB 인프라 구축, 운영 및 성능 최적화 (모니터링, 트러블슈팅, 튜닝)
 - 내· 외부 유관 부서 기술 지원","- R-DBMS에 대한 기본적인 이해와 SQL 활용 능력을 갖추신 분
-- 문제 해결 능력과 원활한 소통 능력을 갖추신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=867
+- 문제 해결 능력과 원활한 소통 능력을 갖추신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=867
 185400,펄어비스,[겨울 인턴십] 엔지니어링_빌드시스템개발,엔지니어링_빌드시스템개발,신입|인턴,"- 빌드 / 배포 자동화 시스템 개발 및 유지 보수
 - 각종 모니터링 시스템 구축 및 운영
 - 게임 점검 툴 개발 및 유지 보수
@@ -99,41 +99,41 @@
 - Python 언어에 능통하신 분
 - JavaScript / TypeScript 언어에 익숙하신 분
 - 원활한 커뮤니케이션과 협업 능력을 갖추신 분
-- 새로운 기술 및 최신 트렌드에 관심이 있으신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=866
+- 새로운 기술 및 최신 트렌드에 관심이 있으신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=866
 185401,펄어비스,[겨울 인턴십] 엔지니어링_모바일플랫폼,엔지니어링_모바일플랫폼,신입|인턴,"- 모바일 앱 관련 개발(Android, iOS, ReactNative 등 활용)
 - 모바일 앱 제반 시스템(인증, 결제, 빌드자동화) 연동 개발 및 유지보수
 - Android, iOS 개발 플랫폼에 대한 개발 지원","- Android 기반 개발을 능숙하게 진행하시는 분
 - Android 개발을 포함해 모바일 앱 경험을 해보신 분
 - 기초적인 컴퓨터 공학 지식 및 경험이 있으신 분
-- 모바일 서비스를 위한 기반 시스템에 흥미가 있으신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=865
+- 모바일 서비스를 위한 기반 시스템에 흥미가 있으신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=865
 185402,펄어비스,[겨울 인턴십] 엔지니어링_게임 개발 엔지니어,엔지니어링_게임 개발 엔지니어,신입|인턴,"- 게임 개발 및 유지보수
 - 게임 내 기능과 시스템의 개발, 개선 및 최적화
 - 안정적인 플레이 경험을 위한 기술적 문제 해결","- C++ 프로그래밍 언어를 능숙하게 다루실 수 있으신 분
 - 게임 개발에 필요한 문제 해결 능력을 갖추신 분
 - 원활한 커뮤니케이션과 협업 능력을 갖추신 분
-- 게임 시스템 구현과 개선에 관심이 많으신 분",https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=864
+- 게임 시스템 구현과 개선에 관심이 많으신 분",,,https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=864
 185406,안랩,2026 신입/경력 공개채용 (연구소),[SW 개발] OS기반 SW개발,경력|신입,"- Windows, Linux, macOS 환경의 보안 SW 개발
 - 커널 및 유저 영역 시스템 프로그래밍
-- 제품 성능·안정성 개선 및 OS 신규 버전 대응",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 제품 성능·안정성 개선 및 OS 신규 버전 대응",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185406,안랩,2026 신입/경력 공개채용 (연구소),[SW 개발] Web 개발,경력|신입,"- 웹 프론트엔드 UI 및 백엔드 API 기능 개발
 - 웹 기반 보안 서비스 및 백오피스 개발
-- 클라우드 기반 서비스 플랫폼 개발",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 클라우드 기반 서비스 플랫폼 개발",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185406,안랩,2026 신입/경력 공개채용 (연구소),[AI/ML] AI/ML 개발,경력|신입,"- AI 모델 및 에이전트 설계, 개발, 운영
 - Al 기술을 활용한 보안 솔루션 연구 및 적용
-- AI 서비스 및 데이터 플랫폼 개발",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- AI 서비스 및 데이터 플랫폼 개발",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185406,안랩,2026 신입/경력 공개채용 (연구소),[보안 연구] 보안위협 분석,경력|신입,"- 침해사고 및 악성코드 분석
 - PC·모바일 환경의 보안 위협 분석
-- 분석 결과 기반의 탐지·대응 방안 도출",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 분석 결과 기반의 탐지·대응 방안 도출",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185406,안랩,2026 신입/경력 공개채용 (연구소),[엔지니어] DevOps,경력|신입,"- 클라우드 기반 R&D 인프라 운영
 - CI/CD 환경 관리 및 자동화 구축
-- 신규 R&D 인프라 도입 및 개선 활동",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 신규 R&D 인프라 도입 및 개선 활동",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185406,안랩,2026 신입/경력 공개채용 (연구소),[엔지니어] QA,경력|신입,"- 보안제품 또는 서비스 품질 검증
 - 소프트웨어 요구사항 분석 및 검증
 - 테스트 계획 수립 및 테스트 케이스 작성
-- 품질 향상을 위한 검증절차 개선 활동",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 품질 향상을 위한 검증절차 개선 활동",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185407,안랩,2026 신입/경력 공개채용 (연구소)_Web개발,[SW 개발] Web 개발,경력|신입,"- 웹 프론트엔드 UI 및 백엔드 API 기능 개발
 - 웹 기반 보안 서비스 및 백오피스 개발
-- 클라우드 기반 서비스 플랫폼 개발",,https://ahnlab.recruiter.co.kr/career/jobs/131873
+- 클라우드 기반 서비스 플랫폼 개발",,,,https://ahnlab.recruiter.co.kr/career/jobs/131873
 185408,안랩,2026 신입/경력 공개채용 (사업/STAFF),[영업] 국내영업 外,경력|신입,상세 모집요강 참조,"[영업]
 - 국내영업 / 세일즈 엔지니어
 
@@ -149,7 +149,7 @@
 [경영지원]
 - HR
 
-※ 모집분야별 상세 내용은 채용 홈페이지 참조하시기 바랍니다.",https://ahnlab.recruiter.co.kr/career/jobs/132732
+※ 모집분야별 상세 내용은 채용 홈페이지 참조하시기 바랍니다.",,,https://ahnlab.recruiter.co.kr/career/jobs/132732
 185464,캐논코리아,2026년 11월 경력사원(계약직) 채용,자동화설비,경력,"[자동화 설비, 디스플레이 설비, 반도체설비 제어설계 업무]
 1) Hard 설계
 - AutoCAD, EPLAN, PCB 회로설계
@@ -163,7 +163,7 @@
 4) 장치 관련 문서작성
 - 사양서, 매뉴얼 등","- 전문학사(2, 3년) 이상 졸업자
 - 설비관련 전기설계 경험자(Hard, Soft)
-- 유관 경력 2년~3년 보유자",https://recruit.lotte.co.kr/apply/announcement/detail/21999033
+- 유관 경력 2년~3년 보유자",,,https://recruit.lotte.co.kr/apply/announcement/detail/21999033
 185464,캐논코리아,2026년 11월 경력사원(계약직) 채용,연구개발(S/W),경력,"[웹 어플리케이션 프런트 개발]
 - 데이터 시각화 웹 서비스 프런트엔드 개발
 - 앵귤러(Angular) 7+ 기반 웹 애플리케이션 아키텍처 설계 및 개발
@@ -174,40 +174,40 @@
 - 앵귤러(Angular) 7+ 기반 서비스 개발 경험 2년 이상
 - TypeScript 기반 개발 경험
 - 프런트엔드 아키텍처 설계 경험
-- 코드 리뷰, 테스트 자동화, CI/CD 경험",https://recruit.lotte.co.kr/apply/announcement/detail/21999033
-185524,우리금융캐피탈,2027년 정규직 신입사원 채용 공고,경영일반,신입,"- 영업기획/채널운영, 여신관리/심사, 경영전략/지원, 리스크/내부통제 등",- 학력 : 4년제 이상 대학 졸업 및 졸업예정자(졸업예정 기준 : 27년 2월 졸업 가능한 자로 반드시 해당 기간 내 졸업해야 하며 미 졸업 시 합격 취소 불이익 발생),https://woorifcapital.incruit.com/hire/viewhire.asp?projectid=101
-185524,우리금융캐피탈,2027년 정규직 신입사원 채용 공고,디지털/IT,신입,"- Al 기획/운영, 디지털/IT 금융전산 시스템 개발 및 운영",- 학력 : 4년제 이상 대학 졸업 및 졸업예정자(졸업예정 기준 : 27년 2월 졸업 가능한 자로 반드시 해당 기간 내 졸업해야 하며 미 졸업 시 합격 취소 불이익 발생),https://woorifcapital.incruit.com/hire/viewhire.asp?projectid=101
+- 코드 리뷰, 테스트 자동화, CI/CD 경험",,,https://recruit.lotte.co.kr/apply/announcement/detail/21999033
+185524,우리금융캐피탈,2027년 정규직 신입사원 채용 공고,경영일반,신입,"- 영업기획/채널운영, 여신관리/심사, 경영전략/지원, 리스크/내부통제 등",- 학력 : 4년제 이상 대학 졸업 및 졸업예정자(졸업예정 기준 : 27년 2월 졸업 가능한 자로 반드시 해당 기간 내 졸업해야 하며 미 졸업 시 합격 취소 불이익 발생),,,https://woorifcapital.incruit.com/hire/viewhire.asp?projectid=101
+185524,우리금융캐피탈,2027년 정규직 신입사원 채용 공고,디지털/IT,신입,"- Al 기획/운영, 디지털/IT 금융전산 시스템 개발 및 운영",- 학력 : 4년제 이상 대학 졸업 및 졸업예정자(졸업예정 기준 : 27년 2월 졸업 가능한 자로 반드시 해당 기간 내 졸업해야 하며 미 졸업 시 합격 취소 불이익 발생),,,https://woorifcapital.incruit.com/hire/viewhire.asp?projectid=101
 185557,에스케이시그넷,전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어,[Tech R&D] SW 개발,경력,"- 전기차 충전기 SW/FW 시험·평가를 통한 품질 및 신뢰성 검증
 - 시험 자동화 및 검증 프로세스 구축·고도화
 - 결함 분석 및 개발팀 협업을 통한 품질 개선","[학력 / 전공]
 - 학사 이상 / 컴퓨터, SW, 전자, 제어 등
 
 [경력 사항]
-- 전력/전자/전장 SW·FW 개발 또는 검증 실무 5년 이상",https://www.skcareers.com/Recruit/Detail/R262043
+- 전력/전자/전장 SW·FW 개발 또는 검증 실무 5년 이상",,,https://www.skcareers.com/Recruit/Detail/R262043
 185562,넷마블네오,2026 AI 인턴십 채용,Al Game Maker,인턴,- 통합 직무,"- 게임 기획이나 게임 프로그래밍(서버, 클라이언트) 직무를 준비해 온 분 중 &apos;AI를 활용해 문제를 해결하는 역량&apos;을 갖추신 분
 - 2027년 2월 졸업 예정자 또는 기졸업자로, 2027년 3월부터 인턴십 기간 동안 풀타임 근무가 가능하신 분
-- 해외여행에 결격사유가 없는 분 (남성의 경우 병역필 또는 면제자)",https://career.netmarble.com/announce/view?anno_id=1899
+- 해외여행에 결격사유가 없는 분 (남성의 경우 병역필 또는 면제자)",,,https://career.netmarble.com/announce/view?anno_id=1899
 185569,케이디비생명보험,2026년 4분기 경력직 채용,[대리~ 과장] 인터넷/모바일창구 운영,경력,"- 인터넷/모바일창구 시스템 개발 및 운영
 - 인터넷/모바일창구 운영 기준 수립 및 관리","- 생명보험 기초서류(약관, 사업방법서, 산출방법서) 이해도 및 시스템 적용력
-- IT 및 시스템에 대한 높은 이해도",https://kdblife.recruiter.co.kr/career/jobs/134389
+- IT 및 시스템에 대한 높은 이해도",,,https://kdblife.recruiter.co.kr/career/jobs/134389
 185569,케이디비생명보험,2026년 4분기 경력직 채용,[사원~ 대리] 언더라이팅 기획,경력,"- 신계약 데이터 분석 및 지표 산출
 - 데이터 추출 및 가공을 통한 데이터 분석
 - Python, R 등 통계 툴을 활용한 인수기준 시뮬레이션 및 영향도 분석
 - 분석 데이터 시각화 및 의사결정 지원","- SQL쿼리 작성 및 데이터 가공에 능숙한 자
 - 데이터분석 라이브러리 실무 활용 능력 보유자
-- 데이터 기반 지표 시각화 역량 보유자",https://kdblife.recruiter.co.kr/career/jobs/134389
+- 데이터 기반 지표 시각화 역량 보유자",,,https://kdblife.recruiter.co.kr/career/jobs/134389
 185569,케이디비생명보험,2026년 4분기 경력직 채용,[사원] HRM,경력,"- HR 데이터 관리 및 지표 분석, 보고자료 작성 지원
 - 인사운영 관련 현안 대응 및 유관부서 협업 수행
 - 채용 전반 업무 지원(채용공고, 서류/면접 운영, 입사 프로세스 운영)
 - 조직문화, 교육 등 업무 보조 및 지원","- HR 업무 전반에 대한 이해 및 채용 프로세스 지원 수행 가능
 - 원활한 커뮤니케이션 및 협업 능력 보유
-- 보고자료 작성 및 데이터 기반 업무 수행 능력 보유",https://kdblife.recruiter.co.kr/career/jobs/134389
+- 보고자료 작성 및 데이터 기반 업무 수행 능력 보유",,,https://kdblife.recruiter.co.kr/career/jobs/134389
 185569,케이디비생명보험,2026년 4분기 경력직 채용,[사원~ 주임] CS텔러,경력,"- 고객 상담 및 제지급 접수 및 처리 업무
 - 계약내용 정·정변경 업무
 - 우편청구 접수 및 처리 업무
 - 타기관 연금이전 접수 및 지급 업무","- 금융PLAZA(대면고객센터) 근무 경력 보유자
 - 보험업무(지급,사고,입금,변경 등) 및 고객 상담 경험 필수
-- 명확한 의사소통 능력 및 민원 응대 역량 보유",https://kdblife.recruiter.co.kr/career/jobs/134389
+- 명확한 의사소통 능력 및 민원 응대 역량 보유",,,https://kdblife.recruiter.co.kr/career/jobs/134389
 185571,한국보건의료정보원,2026년 6차 직원채용,[기간제근로자(육아휴직 대체근로)] 전산 外,,상세 모집요강 참조,"[기간제근로자(육아휴직 대체근로)]
 - 전산 / 행정
 
@@ -223,4 +223,4 @@
 [기간제근로자(전산전문요원)]
 - 전산 
 
-※ 모집분야별 상세 내용은 채용 홈페이지 및 채용 홈페이지 내 직무기술서 첨부파일을 참조하시기 바랍니다.",https://khis.ai-recruit.kr/recruits/6af16dab10a67f2f43e98297
+※ 모집분야별 상세 내용은 채용 홈페이지 및 채용 홈페이지 내 직무기술서 첨부파일을 참조하시기 바랍니다.",,,https://khis.ai-recruit.kr/recruits/6af16dab10a67f2f43e98297
