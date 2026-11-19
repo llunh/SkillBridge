@@ -808,7 +808,7 @@ toss_7646941003,7646941003,토스,AI 플랫폼 엔지니어 (Platform) (AI Platf
 > - 실험부터 서빙까지의 흐름을 직접 만들고 고도화해 나가는 경험, 토스에서 할 수 있습니다.
 
 # 꼭 확인해 주세요
-- AI 플랫폼 엔지니어 (AI Platform Engineer) 포지션은 전형 과정에서 국문, 영문 명칭을 함께 사용해요.",2026-02-27,,Toss Careers,https://toss.im/career/job-detail?gh_jid=7646941003,2026-11-18T12:39:45.612948+00:00,Retrieval | Vector | vLLM | LLM | RAG | API
+- AI 플랫폼 엔지니어 (AI Platform Engineer) 포지션은 전형 과정에서 국문, 영문 명칭을 함께 사용해요.",2026-02-27,,Toss Careers,https://toss.im/career/job-detail?gh_jid=7646941003,2026-11-18T12:39:45.612948+00:00,Retrieval | Vector Search | vLLM | LLM | RAG | API
 toss_7986152003,7986152003,토스,AI 플랫폼 엔지니어 (Inference Pipeline) (AI Platform Engineer),ML,AI/ML,,정규직,Seoul,"- ML, LLM, Vision 모델을 조합해 사람이 하던 대량의 판단 업무를 대용량 AI 파이프라인으로 자동화해요.
 - 토스의 AI 플랫폼과 인프라를 각 도메인이 필요로 하는 형태로 연결하고, 여러 도메인에서 반복되는 요소를 공통 기능으로 끌어올려 플랫폼을 고도화해요.
 - 외부 모델 API를 사용할지, 자체 모델로 옮길지를 비용과 성능을 근거로 판단해요. 데이터가 쌓이면 자체 모델로 전환하는 흐름까지 만들어요.
@@ -1913,7 +1913,7 @@ toss_5498959003,5498959003,토스뱅크,ML 엔지니어 (ML/LLM Ops) (ML Enginee
 # 함께할 동료를 위한 한마디
 > ""폭발적인 성장을 원하는 ML Engineer에겐 최고의 회사에요.""
 - 자유롭게 일하고, 업무에 몰입할 수 있는 최고의 환경을 제공하는 회사라고 생각해요. 다방면으로 훌륭한 동료들과 함께 큰 성장을 할 수 있는 팀을 찾고 계신 분들이 계시다면, 정말 좋은 선택지 중 하나라고 생각합니다!
-- Data Engineer, ML Modeler, Data Scientist 등과 협업하여 세상에 없는 스마트한 금융 서비스를 직접 만들고 싶다면!",2023-02-02,,Toss Careers,https://toss.im/career/job-detail?gh_jid=5498959003,2026-11-18T12:39:45.690170+00:00,OpenTelemetry | Prometheus | Kubernetes | Cassandra | Terraform | TensorRT | Airflow | Grafana | ArgoCD | Vector | MLflow | Triton | vLLM | AWS | LLM | GPU
+- Data Engineer, ML Modeler, Data Scientist 등과 협업하여 세상에 없는 스마트한 금융 서비스를 직접 만들고 싶다면!",2023-02-02,,Toss Careers,https://toss.im/career/job-detail?gh_jid=5498959003,2026-11-18T12:39:45.690170+00:00,OpenTelemetry | Prometheus | Kubernetes | Cassandra | Terraform | TensorRT | Airflow | Grafana | ArgoCD | Vector Search | MLflow | Triton | vLLM | AWS | LLM | GPU
 toss_7575603003,7575603003,토스증권,ML 엔지니어 (LLM) (ML Engineer),ML,AI/ML,,정규직,Seoul,"☑️ 모델 학습 · 서빙 · 운영
 - 분류, 추출, 요약, 번역 등 텍스트 기반 문제에 맞는 모델을 직접 학습해요.
 - Fine-tuning, 실험 설계, 성능 평가를 통해 모델 품질을 높여요.
@@ -6739,7 +6739,7 @@ toss_8006356003,8006356003,토스증권,데이터 엔지니어 (DataOps) (Data E
 - 이력서 및 제출 서류에 허위 사실이 발견되거나 근무 이력 중 징계사항이 확인될 경우, 채용이 취소될 수 있어요.
 - 토스증권 내규에 따라 채용 금지자 또는 결격사유 해당자는 채용이 취소될 수 있어요.
 - 장애인 및 국가보훈대상자는 지원 시 관련법에 따라 우대하고 있어요.
-- 데이터 엔지니어 (Data Engineer) 포지션은 전형 과정에서 국문, 영문 명칭을 함께 사용해요.",2026-09-27,,Toss Careers,https://toss.im/career/job-detail?gh_jid=8006356003,2026-11-18T12:39:46.072468+00:00,Spring Cloud Config | Elasticsearch stack | Prometheus | Thanos | Kubernetes | Istio | GitHub Actions | OpenTelemetry | Elasticsearch | Kafka Connect | Spring Cloud | Spring Boot | ClickHouse | ElastAlert | StarRocks | HAProxy | Airflow | MongoDB | Grafana | Harbor | Python | Impala | Hadoop | ArgoCD | Oracle | Vector | Milvus | Kotlin | Spring | GitHub | Spark | Kafka | MySQL | Vault | HBase | Redis | CI/CD | KSQL | GoCD | Java | Ceph | dbt | Git | SQL
+- 데이터 엔지니어 (Data Engineer) 포지션은 전형 과정에서 국문, 영문 명칭을 함께 사용해요.",2026-09-27,,Toss Careers,https://toss.im/career/job-detail?gh_jid=8006356003,2026-11-18T12:39:46.072468+00:00,Spring Cloud Config | Elasticsearch stack | Prometheus | Thanos | Kubernetes | Istio | GitHub Actions | OpenTelemetry | Elasticsearch | Kafka Connect | Spring Cloud | Spring Boot | ClickHouse | ElastAlert | StarRocks | HAProxy | Airflow | MongoDB | Grafana | Harbor | Python | Impala | Hadoop | ArgoCD | Oracle | Vector (Observability) | Milvus | Kotlin | Spring | GitHub | Spark | Kafka | MySQL | Vault | HBase | Redis | CI/CD | KSQL | GoCD | Java | Ceph | dbt | Git | SQL
 toss_7820096003,7820096003,토스증권,데이터 엔지니어 (AI Service) (Data Engineer),Data Engineering,Data,3년 이상,정규직,Seoul,"- 실시간 시세 데이터를 가공해 수백만 유저가 매일 보는 실시간 랭킹 서비스를 만들어요.
 - 글로벌 시장의 뉴스, 소셜, 공시 데이터를 실시간으로 모으고 LLM으로 요약, 분석, 추출을 하는 파이프라인을 만들어요.
 - 차별화된 인사이트를 제공하기 위해 뉴스, 이벤트, 테마, 산업, 종목을 하나로 잇는 금융 지식그래프를 설계, 구축, 운영해요.
@@ -9208,7 +9208,7 @@ toss_4076141003,4076141003,토스증권,프론트엔드 개발자 (Frontend Deve
 # 함께할 동료를 위한 한마디
  > ""누구나 쉽게 다가올 수 있는 증권 서비스를 만들고 있어요.""
  - 개발자라면 좋은 소프트웨어를 통해 유저에게 좋은 가치를 전달 하는 것에서 희열감을 느끼고 직업의 의미를 찾으시는 분이 많으실거라 생각해요.
- - 토스 프론트엔드팀은 ""금융이 어렵다."", ""증권은 어렵다."" 라는 문제를 유저에게 좋은 매매 경험, 증권을 쉽게 이해할 수 있는 UX를 제공하여 유저에게 가치를 전달하는 팀이에요. 유저에게 특별하고 혁신적으로 좋은 가치를 전달하려다 보니 그 과정에서 많은 어려움도 있지만 팀원 모두가 좋은 코드를 지향하고 어려운 문제는 같이 고민하고 서로 도와주는 문화가 잘 정착되어 있어서 어려움을 헤쳐가는 시간들이 쉬워지고 즐거워지는 걸 경험하실 수 있으실 거예요!",2020-06-17,,Toss Careers,https://toss.im/career/job-detail?gh_jid=4076141003,2026-11-18T12:39:46.256857+00:00,TDS (Toss Design System) | 정적 타입 검사를 통해 버그를 줄여요. | vanilla-extract | GitHub Actions | React-Query | TypeScript | Yarn Berry | Next.js | Webpack | Emotion | Android | Recoil | GitHub | Jotai | React | Babel | pnpm | iOS | WebSocket | SWC | SSE
+ - 토스 프론트엔드팀은 ""금융이 어렵다."", ""증권은 어렵다."" 라는 문제를 유저에게 좋은 매매 경험, 증권을 쉽게 이해할 수 있는 UX를 제공하여 유저에게 가치를 전달하는 팀이에요. 유저에게 특별하고 혁신적으로 좋은 가치를 전달하려다 보니 그 과정에서 많은 어려움도 있지만 팀원 모두가 좋은 코드를 지향하고 어려운 문제는 같이 고민하고 서로 도와주는 문화가 잘 정착되어 있어서 어려움을 헤쳐가는 시간들이 쉬워지고 즐거워지는 걸 경험하실 수 있으실 거예요!",2020-06-17,,Toss Careers,https://toss.im/career/job-detail?gh_jid=4076141003,2026-11-18T12:39:46.256857+00:00,TDS (Toss Design System) | vanilla-extract | GitHub Actions | React-Query | TypeScript | Yarn Berry | Next.js | Webpack | Emotion | Android | Recoil | GitHub | Jotai | React | Babel | pnpm | iOS | WebSocket | SWC | SSE
 toss_6615122003,6615122003,토스증권,프론트엔드 개발자 (보훈특별채용) (Frontend Developer),Frontend,Frontend,,정규직,Seoul,"- Android, iOS 앱의 웹뷰에서 동작하는 모바일 제품과 PC 브라우저에서 동작하는 데스크탑 제품, 운영을 위한 백오피스까지 모두 모던 웹 기술로 만들고 있어요.
 - 어렵고 복잡한 투자 상품을 누구나 쉽게 이용할 수 있도록 슬릭한 투자 경험을 제공하는 서비스를 만들고 있어요.
 - 수많은 실시간 데이터를 끊김없이 보여주고 거래할 수 있도록 최적의 엔지니어링 기술을 활용하고 있어요.","- 웹 기반의 서비스를 운영한 경험이 있으신 분을 찾고 있어요.
@@ -9274,7 +9274,7 @@ toss_6615122003,6615122003,토스증권,프론트엔드 개발자 (보훈특별�
 # 함께할 동료를 위한 한마디
  > ""누구나 쉽게 다가올 수 있는 증권 서비스를 만들고 있어요.""
  - 개발자라면 좋은 소프트웨어를 통해 유저에게 좋은 가치를 전달 하는 것에서 희열감을 느끼고 직업의 의미를 찾으시는 분이 많으실거라 생각해요.
- - 토스 프론트엔드팀은 ""금융이 어렵다."", ""증권은 어렵다."" 라는 문제를 유저에게 좋은 매매 경험, 증권을 쉽게 이해할 수 있는 UX를 제공하여 유저에게 가치를 전달하는 팀이에요. 유저에게 특별하고 혁신적으로 좋은 가치를 전달하려다 보니 그 과정에서 많은 어려움도 있지만 팀원 모두가 좋은 코드를 지향하고 어려운 문제는 같이 고민하고 서로 도와주는 문화가 잘 정착되어 있어서 어려움을 헤쳐가는 시간들이 쉬워지고 즐거워지는 걸 경험하실 수 있으실 거예요!",2025-06-19,,Toss Careers,https://toss.im/career/job-detail?gh_jid=6615122003,2026-11-18T12:39:46.263856+00:00,TDS (Toss Design System) | 정적 타입 검사를 통해 버그를 줄여요. | 일을 하면서 개발 역량 성장은 물론 | 평소 투자에 관심이 많은 개발자라면 | vanilla-extract | 엔지니어링 데이가 아니더라도 | GitHub Actions | React-Query | TypeScript | Yarn Berry | Next.js | Webpack | Emotion | Android | Recoil | GitHub | Jotai | React | Babel | pnpm | iOS | WebSocket | SWC | SSE
+ - 토스 프론트엔드팀은 ""금융이 어렵다."", ""증권은 어렵다."" 라는 문제를 유저에게 좋은 매매 경험, 증권을 쉽게 이해할 수 있는 UX를 제공하여 유저에게 가치를 전달하는 팀이에요. 유저에게 특별하고 혁신적으로 좋은 가치를 전달하려다 보니 그 과정에서 많은 어려움도 있지만 팀원 모두가 좋은 코드를 지향하고 어려운 문제는 같이 고민하고 서로 도와주는 문화가 잘 정착되어 있어서 어려움을 헤쳐가는 시간들이 쉬워지고 즐거워지는 걸 경험하실 수 있으실 거예요!",2025-06-19,,Toss Careers,https://toss.im/career/job-detail?gh_jid=6615122003,2026-11-18T12:39:46.263856+00:00,TDS (Toss Design System) | vanilla-extract | GitHub Actions | React-Query | TypeScript | Yarn Berry | Next.js | Webpack | Emotion | Android | Recoil | GitHub | Jotai | React | Babel | pnpm | iOS | WebSocket | SWC | SSE
 toss_5622017003,5622017003,토스뱅크,FE Platform Engineer,Frontend,Frontend,,정규직,Seoul,"- 웹과 네이티브가 만나는 지점을 설계해요.
 - 화면과 시스템의 상태를 측정할 수 있게 만들어요. 트레이싱·로깅·에러 진단 체계를 세워 장애의 원인을 추측이 아니라 데이터로 찾아요.
 - 수백 개의 서비스를 지탱하는 모노레포와 빌드 툴체인을 만들어요. 빌드·배포 시간, 의존성 구조, 로컬 개발 환경을 개선해요.
